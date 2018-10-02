@@ -1,0 +1,70 @@
+body {
+    background-image: url("cat-vector-3.png");
+}
+
+h1 {font-size: 100px;
+    margin-left: 295px;
+    font-family: 'Pacifico', cursive;
+    color: black;
+ 
+
+}
+
+
+#h1 {
+    font-size: 100px;
+margin-left: 300px;
+font-family: 'Pacifico', cursive;
+color: white;
+margin-top: -120px;
+
+}
+
+
+.cat-button {
+    background-color: #f9acec;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+outline: 1px white solid;
+margin-left: 37px;
+font-weight: bold;
+font-family: 'Gochi Hand', cursive;
+font-size: 14px;
+display: inline-block;
+
+
+}
+
+.cat-button:hover {
+    background-color: #d34c80;
+}
+
+
+#gif-container {
+    width: 300px;
+    height: 50px;
+    border: 1px solid #c3c3c3;
+    display: flex;
+    justify-content: center;
+    margin-left: 500px;
+    margin-top: 150px;
+}
+
+ #button-container {
+     margin-top: 50px;
+     font-family: 'Gochi Hand', cursive;
+     font-size: 14px;
+     display: inline-block;
+     
+ }
+
+ form.form.class {
+    margin-left: 450px;
+    margin-top: -130px;
+    font-weight: bold;
+    font-family: 'Pacifico', cursive;
+font-size: 20px;
+background-color: #f9acec;
+box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+outline: 1px white solid;
+width: 350px;
+ }
